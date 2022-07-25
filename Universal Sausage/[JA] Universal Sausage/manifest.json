@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "Grind anything into sausage.",
     "UniqueID": "Failsplat.UniversalSausageJA",
-    "UpdateKeys": [  ],
+    "UpdateKeys": [ "Nexus:13091" ],
     "ContentPackFor": {
         "UniqueID": "spacechase0.JsonAssets"
     },
