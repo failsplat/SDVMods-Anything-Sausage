@@ -3,7 +3,7 @@
     "ProducerName": "Universal Sausage Grinder", 
     "AlternateFrameProducing": false, 
     "AlternateFrameWhenReady": false, 
-    "DisableBouncingAnimationWhileWorking": false,
+    "DisableBouncingAnimationWhileWorking": true,
     "ProducingAnimation": { 
       "RelativeFrameIndex": [1,2,3,4,5,6], 
       "FrameInterval": 10 
