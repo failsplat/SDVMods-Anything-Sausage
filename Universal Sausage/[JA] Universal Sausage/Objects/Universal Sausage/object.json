@@ -1,0 +1,49 @@
+{
+    "Name": "Universal Sausage",
+    "Description": "Limitless potential in a roughly tubular form. Takes the flavor of anything and everything it is made of.",
+    "Category": "ArtisanGoods",
+    "Edibility": 5,
+    "Price": 108,
+    "IsColored": true,
+    "Recipe": null,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "GiftTastes":
+    {
+        "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Krobus", "Leah", "Willy"],
+    },
+    "ContextTags":
+    [
+      "color_brown",
+    ],
+    "NameLocalization":
+    {
+        "default":"Universal Sausage",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+      "default": "Limitless potential in a roughly tubular form. Takes the flavor of anything and everything it is made of.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

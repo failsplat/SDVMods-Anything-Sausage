@@ -1,0 +1,17 @@
+{
+   "Name": "[PFM] Universal Sausage",
+   "Author": "Failsplat",
+   "Description": "PFM machine recipes to convert everything to sausage.",
+   "Version": "1.0.0",
+   "UniqueID": "Failsplat.UniversalSausagePFM",
+     "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },
+  "Dependencies": [
+    {
+      "UniqueID": "Failsplat.UniversalSausageJA",
+      "IsRequired": true,
+    },
+  ]
+}

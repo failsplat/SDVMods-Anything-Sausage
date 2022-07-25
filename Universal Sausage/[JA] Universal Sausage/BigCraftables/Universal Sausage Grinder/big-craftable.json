@@ -1,0 +1,63 @@
+{
+    "Name": "Universal Sausage Grinder",
+    "Description": "Anything and everything can be reformed and extruded into perfect sausage form.",
+    "Price": 1,
+    "ProvidesLight": false, 
+    "CanPurchase": false,
+    "ReserveExtraIndexCount": 7,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 334,
+            "Count": 5,
+        },
+        {
+            "Object": 335,
+            "Count": 4,
+        },
+        {
+            "Object": 336,
+            "Count": 3,
+        },
+        {
+            "Object": 337,
+            "Count": 2,
+        },
+        
+        ],
+        "CanPurchase": false,
+        "IsDefault": true,
+    },
+        "NameLocalization": //Used for localization. 
+        { 
+            "default": "Universal Sausage Grinder",
+            "es": "", //Spansih
+            "ko": "", //Korean
+            "de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish
+            "zh": "", //Chinese (Simplified)
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            "default": "Anything and everything can be reformed and extruded into perfect sausage form.",
+            "es": "", //Spansih
+            "ko": "", //Korean
+            "de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish
+            "zh": "", //Chinese (Simplified)
+        }
+    }

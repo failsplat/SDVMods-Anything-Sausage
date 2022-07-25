@@ -1,0 +1,23 @@
+[
+  // By Category
+  {
+      "ProducerName": "Universal Sausage Grinder",
+      "InputIdentifier": "-2",
+      "InputStack": 1,
+      "MinutesUntilReady": 240,
+      "OutputIdentifier": "Universal Sausage",
+      "OutputName": "{inputName} Sausage",
+      "OutputTranslationKey": "AnythingSausage.UniversalSausage",
+      "OutputStack": 1,
+      "KeepInputParentIndex": false,
+      "InputPriceBased": true,
+      "OutputPriceIncrement": 108,
+      "Sounds": ["Ship"],
+      "OutputColorConfig": {
+        "Type": "ObjectColor",
+        "Red": 141,
+        "Green": 61,
+        "Blue": 245,
+      },
+  },
+]

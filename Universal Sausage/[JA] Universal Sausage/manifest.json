@@ -1,0 +1,13 @@
+{
+    "Name": "[JA] Universal Sausage",
+    "Author": "Failsplat",
+    "Version": "1.0.0",
+    "Description": "Grind anything into sausage.",
+    "UniqueID": "Failsplat.UniversalSausageJA",
+    "UpdateKeys": [  ],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+    ],
+}
